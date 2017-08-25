@@ -6,30 +6,82 @@ Being the data science major that I am, I decided to build my entire team algori
 
 My draft has been scheduled for next week, so I ranked the top 12 players in each field since there's 12 people in my league. I didn't account for FLEX or anything else unique to fantasy.
 
+You can view my algorithms [here](https://github.com/andykamath/NFL-data-hacking/blob/master/Data%20Hacking.ipynb)
+
 ## My rankings:
 
 ### Top Kickers
 1. Baltimore Ravens - Tucker, Justin 
-* Score: 9.4375
 2. New England Patriots - Gostkowski, Stephen 
-* Score: 9.125
 3. New Orleans Saints - Lutz, Wil 
-* Score: 8.8125
 4. Dallas Cowboys - Bailey, Dan 
-* Score: 8.739583333333334
 5. Washington Redskins - Hopkins, Dustin 
-* Score: 8.548387096774194
 6. Pittsburgh Steelers - Boswell, Chris 
-* Score: 8.481481481481481
 7. Seattle Seahawks - Walsh, Blair 
-* Score: 8.315068493150685
 8. Green Bay Packers - Crosby, Mason 
-* Score: 8.25625
 9. Kansas City Chiefs - Santos, Cairo 
-* Score: 8.145833333333334
 10. Philadelphia Eagles - Sturgis, Caleb 
-* Score: 7.967213114754099
 11. Carolina Panthers - Gano, Graham 
-* Score: 7.89622641509434
-12. Cleveland Browns - Parkey, Cody 
-* Score: 7.818181818181818
+12. Cleveland Browns - Parkey, Cody
+
+### Top Wide Receivers
+1. New York Giants - Beckham Jr., Odell
+2. Atlanta Falcons - Jones, Julio
+3. Cincinnati Bengals - Green, AJ
+4. Tampa Bay Buccaneers - Evans, Mike
+5. Pittsburgh Steelers - Brown, Antonio
+6. New Orleans Saints - Thomas, Michael
+7. Dallas Cowboys - Bryant, Dez 
+8. Denver Broncos - Thomas, Demaryius 
+9. Pittsburgh Steelers - Bryant, Martavis 
+10. Arizona Cardinals - Fitzgerald, Larry 
+11. New York Giants - Marshall, Brandon 
+12. Jacksonville Jaguars - Robinson, Allen 
+
+## Top Tight Ends
+1. New England Patriots - Gronkowski, Rob 
+2. Seattle Seahawks - Graham, Jimmy 
+3. Los Angeles Chargers - Gates, Antonio 
+4. Washington Redskins - Reed, Jordan 
+5. Kansas City Chiefs - Kelce, Travis 
+6. Cincinnati Bengals - Eifert, Tyler 
+7. Dallas Cowboys - Witten, Jason 
+8. Miami Dolphins - Thomas, Julius 
+9. Carolina Panthers - Olsen, Greg 
+10. Los Angeles Chargers - Henry, Hunter 
+11. Washington Redskins - Davis, Vernon 
+12. Philadelphia Eagles - Ertz, Zach 
+
+## Top Running Backs
+1. Dallas Cowboys - Elliott, Ezekiel 
+2. New Orleans Saints - Peterson, Adrian 
+3. Pittsburgh Steelers - Bell, Le'Veon 
+4. Chicago Bears - Howard, Jordan 
+5. Tennessee Titans - Murray, DeMarco 
+6. Buffalo Bills - McCoy, LeSean 
+7. Oakland Raiders - Lynch, Marshawn
+8. Arizona Cardinals - Johnson, David
+9. Los Angeles Rams - Gurley, Todd 
+10. Tampa Bay Buccaneers - Martin, Doug 
+11. Indianapolis Colts - Gore, Frank 
+12. Cincinnati Bengals - Hill, Jeremy 
+
+## Top D/ST
+1. Washington Redskins - Hall, DeAngelo 
+2. Tampa Bay Buccaneers - Smith, Jacquies 
+3. Cleveland Browns - Boddy-Calhoun, Briean 
+4. New York Giants - Jenkins, Janoris 
+5. Philadelphia Eagles - Wentz, Carson
+6. Seattle Seahawks - Sherman, Richard
+7. New York Giants - Rodgers-Cromartie, Dominique
+8. Miami Dolphins - Jones, Reshad 
+9. Arizona Cardinals - Peterson, Patrick 
+10. Washington Redskins - Brown, Zach 
+11. Arizona Cardinals - Dansby, Karlos 
+12. Baltimore Ravens - Mosley, C.J.
+
+## Top Quarterbacks
+1. 
+
+
+
