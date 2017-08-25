@@ -81,7 +81,17 @@ You can view my algorithms [here](https://github.com/andykamath/NFL-data-hacking
 12. Baltimore Ravens - Mosley, C.J.
 
 ## Top Quarterbacks
-1. 
-
+1. New Orleans Saints - Brees, Drew 
+2. Atlanta Falcons - Ryan, Matt
+3. Washington Redskins - Cousins, Kirk 
+4. Detroit Lions - Stafford, Matthew 
+5. Pittsburgh Steelers - Roethlisberger, Ben 
+6. Indianapolis Colts - Luck, Andrew 
+7. Dallas Cowboys - Prescott, Dak 
+8. New England Patriots - Brady, Tom 
+9. Tampa Bay Buccaneers - Winston, Jameis
+10. Miami Dolphins - Tannehill, Ryan 
+11. Green Bay Packers - Rodgers, Aaro
+12. Cincinnati Bengals - Dalton, Andy 
 
 
