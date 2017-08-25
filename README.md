@@ -38,7 +38,7 @@ You can view my algorithms [here](https://github.com/andykamath/NFL-data-hacking
 11. New York Giants - Marshall, Brandon 
 12. Jacksonville Jaguars - Robinson, Allen 
 
-## Top Tight Ends
+### Top Tight Ends
 1. New England Patriots - Gronkowski, Rob 
 2. Seattle Seahawks - Graham, Jimmy 
 3. Los Angeles Chargers - Gates, Antonio 
@@ -52,7 +52,7 @@ You can view my algorithms [here](https://github.com/andykamath/NFL-data-hacking
 11. Washington Redskins - Davis, Vernon 
 12. Philadelphia Eagles - Ertz, Zach 
 
-## Top Running Backs
+### Top Running Backs
 1. Dallas Cowboys - Elliott, Ezekiel 
 2. New Orleans Saints - Peterson, Adrian 
 3. Pittsburgh Steelers - Bell, Le'Veon 
@@ -66,7 +66,7 @@ You can view my algorithms [here](https://github.com/andykamath/NFL-data-hacking
 11. Indianapolis Colts - Gore, Frank 
 12. Cincinnati Bengals - Hill, Jeremy 
 
-## Top D/ST
+### Top D/ST
 1. Washington Redskins - Hall, DeAngelo 
 2. Tampa Bay Buccaneers - Smith, Jacquies 
 3. Cleveland Browns - Boddy-Calhoun, Briean 
@@ -80,7 +80,7 @@ You can view my algorithms [here](https://github.com/andykamath/NFL-data-hacking
 11. Arizona Cardinals - Dansby, Karlos 
 12. Baltimore Ravens - Mosley, C.J.
 
-## Top Quarterbacks
+### Top Quarterbacks
 1. New Orleans Saints - Brees, Drew 
 2. Atlanta Falcons - Ryan, Matt
 3. Washington Redskins - Cousins, Kirk 
@@ -94,4 +94,4 @@ You can view my algorithms [here](https://github.com/andykamath/NFL-data-hacking
 11. Green Bay Packers - Rodgers, Aaro
 12. Cincinnati Bengals - Dalton, Andy 
 
-
+Here's to a great season! Hit me with a star if you found this helpful :)
